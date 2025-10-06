@@ -395,6 +395,7 @@ li a {
 
 footer {
   flex-direction: column;
+  margin-top: 5%;
 }
 
 .conteudo-footer {
@@ -446,12 +447,11 @@ footer {
   justify-content: center;
   align-items: center;
   margin: .2rem;
-  
 }
 
-.icone {
-  padding: 10%;
-  cursor: pointer;
+.logo-footer {
+width: 5rem;
+height: auto;
 }
 
 .linha-decorativa {
